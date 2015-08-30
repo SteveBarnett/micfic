@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://localhost:8888/microfiction.co.za/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Rant | Micro Fiction</title>
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="Micro Fiction &raquo; Feed" href="http://localhost:8888/microfiction.co.za/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Micro Fiction &raquo; Comments Feed" href="http://localhost:8888/microfiction.co.za/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Micro Fiction &raquo; Rant Comments Feed" href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/localhost:8888\/microfiction.co.za\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/style.css?ver=4.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://localhost:8888/microfiction.co.za/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://localhost:8888/microfiction.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/microfiction.co.za/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/microfiction.co.za/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='New Theme: Stop' href='http://localhost:8888/microfiction.co.za/2010/09/06/new-theme-stop/' />
+<link rel='next' title='MicFic in MeatSpace' href='http://localhost:8888/microfiction.co.za/2010/09/14/micfic-in-meatspace/' />
+<meta name="generator" content="WordPress 4.3" />
+<link rel='canonical' href='http://localhost:8888/microfiction.co.za/2010/09/13/rant/' />
+<link rel='shortlink' href='http://localhost:8888/microfiction.co.za/?p=277' />
+<meta name='robots' content='noindex,follow' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-277 single-format-standard">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+										<p class="site-title"><a href="http://localhost:8888/microfiction.co.za/" rel="home">Micro Fiction</a></p>
+											<p class="site-description">Just another WordPress site</p>
+									<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://localhost:8888/microfiction.co.za/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://localhost:8888/microfiction.co.za/2011/09/20/we-all-did-our-own-and-we-will-miss-it/">We all did our own, and we will miss it</a>
+						</li>
+					<li>
+				<a href="http://localhost:8888/microfiction.co.za/2011/06/12/caught/">Caught</a>
+						</li>
+					<li>
+				<a href="http://localhost:8888/microfiction.co.za/2011/06/12/count/">Count</a>
+						</li>
+					<li>
+				<a href="http://localhost:8888/microfiction.co.za/2011/06/12/impending/">Impending</a>
+						</li>
+					<li>
+				<a href="http://localhost:8888/microfiction.co.za/2011/06/12/a-new-world/">A New World</a>
+						</li>
+				</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://rudyneeser.wordpress.com/' rel='external nofollow' class='url'>Rudy Neeser</a></span> on <a href="http://localhost:8888/microfiction.co.za/2011/09/20/we-all-did-our-own-and-we-will-miss-it/#comment-1471">We all did our own, and we will miss it</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://microfiction.co.za/2011/09/20/we-all-did-our-own-and-we-will-miss-it/' rel='external nofollow' class='url'>We all did our own, and we will miss it &laquo; Micro Fiction</a></span> on <a href="http://localhost:8888/microfiction.co.za/2011/06/12/caught/#comment-1470">Caught</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://microfiction.co.za/2011/09/20/we-all-did-our-own-and-we-will-miss-it/' rel='external nofollow' class='url'>We all did our own, and we will miss it &laquo; Micro Fiction</a></span> on <a href="http://localhost:8888/microfiction.co.za/2010/05/31/light/#comment-10">Light</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://rudyneeser.wordpress.com/' rel='external nofollow' class='url'>Rudy Neeser</a></span> on <a href="http://localhost:8888/microfiction.co.za/2011/05/29/paradise-ranch/#comment-1465">Paradise Ranch</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://extemporanea.livejournal.com/' rel='external nofollow' class='url'>docinatrix</a></span> on <a href="http://localhost:8888/microfiction.co.za/2011/05/29/paradise-ranch/#comment-1464">Paradise Ranch</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/09/'>September 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/06/'>June 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/05/'>May 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/04/'>April 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/03/'>March 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/02/'>February 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2011/01/'>January 2011</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/12/'>December 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/11/'>November 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/10/'>October 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/09/'>September 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/08/'>August 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/07/'>July 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/06/'>June 2010</a></li>
+	<li><a href='http://localhost:8888/microfiction.co.za/2010/05/'>May 2010</a></li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+	<li class="cat-item cat-item-19"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100531-to-20100613-light/" >2010/05/31 to 2010/06/13 &#8211; Light</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100614-to-20100627-breath/" >2010/06/14 to 2010/06/27 &#8211; Breath</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100628-to-20100711-soup/" >2010/06/28 to 2010/07/11 &#8211; Soup</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100712-to-20100725-sure-thing/" >2010/07/12 to 2010/07/25 &#8211; Sure Thing</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100726-to-20100808-bedtime-stories/" >2010/07/26 to 2010/08/08 &#8211; Bedtime Stories</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100809-to-20100822-feathers/" >2010/08/09 to 2010/08/22 &#8211; Feathers</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-i/20100823-to-20100905-spanner/" >2010/08/23 to 2010/09/05 &#8211; Spanner</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20100906-to-20100919-stop/" >2010/09/06 to 2010/09/19 &#8211; Stop</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20100920-to-20101003-ghost/" >2010/09/20 to 2010/10/03 &#8211; Ghost</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20101004-to-20101017-gone/" >2010/10/04 to 2010/10/17 &#8211; Gone</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20101018-20101031-outsider/" >2010/10/18 &#8211; 2010/10/31 &#8211; Outsider</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20101101-to-20101114-cat/" >2010/11/01 to 2010/11/14 &#8211; Cat</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20101115-to-20101128-eye/" >2010/11/15 to 2010/11/28 &#8211; Eye</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20101129-to-20101212-subterfuge/" >2010/11/29 to 2010/12/12 &#8211; Subterfuge</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20101213-to-20101226-heat/" >2010/12/13 to 2010/12/26 &#8211; Heat</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20101227-to-20110109-silver/" >2010/12/27 to 2011/01/09 &#8211; Silver</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20110110-to-20110124-ship/" >2011/01/10 to 2011/01/24 &#8211; Ship</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20110124-to-20110206-stand-up/" >2011/01/24 to 2011/02/06 &#8211; Stand Up</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20110207-to-20110221-horizon/" >2011/02/07 to 2011/02/21 &#8211; Horizon</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20110221-to-20110306-blue/" >2011/02/21 to 2011/03/06 &#8211; Blue</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/20110307-to-20110320-vainglory/" >2011/03/07 to 2011/03/20 &#8211; VainGlory</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/20110321-to-20110403/" >2011/03/21 to 2011/04/03</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/20110404-to-20110417/" >2011/04/04 to 2011/04/17</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/20110418-to-20110501/" >2011/04/18 to 2011/05/01</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/20110502-to-20110515/" >2011/05/02 to 2011/05/15</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/20110515-to-20110529/" >2011/05/15 to 2011/05/29</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/20110530-to-20110612/" >2011/05/30 to 2011/06/12</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-i-print/backs/" >Backs</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://localhost:8888/microfiction.co.za/category/extras/breath/" >Breath</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://localhost:8888/microfiction.co.za/category/feedback/constructive-criticism/" >Constructive criticism</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-ii-print/covers/" >Covers</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://localhost:8888/microfiction.co.za/category/extras/" >Extras</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://localhost:8888/microfiction.co.za/category/feedback/" >Feedback</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-i-print/fronts/" >Fronts</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://localhost:8888/microfiction.co.za/category/general/" >General</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://localhost:8888/microfiction.co.za/category/feedback/gentle-feedback/" >Gentle feedback</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://localhost:8888/microfiction.co.za/category/extras/horizon/" >Horizon</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://localhost:8888/microfiction.co.za/category/extras/light/" >Light</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://localhost:8888/microfiction.co.za/category/print/" >Print</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-ii-print/reviews/" >Reviews</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://localhost:8888/microfiction.co.za/category/extras/silver/" >Silver</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://localhost:8888/microfiction.co.za/category/submissions/" >Submissions</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-ii-print/the-bookering/" >The Bookering</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://localhost:8888/microfiction.co.za/category/themes/" >Themes</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://localhost:8888/microfiction.co.za/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-i-print/" >Volume I</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/" >Volume II</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://localhost:8888/microfiction.co.za/category/print/volume-ii-print/" >Volume II</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iii/" >Volume III</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-iv/" >Volume IV</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="http://localhost:8888/microfiction.co.za/wp-login.php">Log in</a></li>
+			<li><a href="http://localhost:8888/microfiction.co.za/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://localhost:8888/microfiction.co.za/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-277" class="post-277 post type-post status-publish format-standard hentry category-20100906-to-20100919-stop category-constructive-criticism category-volume-ii">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">Rant</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>My Nana always told me, “Stop pulling faces kiddo. If the wind changes your face will stick like  that”. But it didn’t, not even when the wind changed. I like pulling faces: I did then and I do now. Nana was the kindest of the people I want to talk about: the people who say ‘stop’.</p>
+<p>“Stop doing that or you’ll go blind”: Well I never stopped and I never went blind (and my palms are utterly devoid of hair). What motivated you to foist this untruth on me? Did an adolescent’s sexuality intimidate you?</p>
+<p>“Stop after that one, you’re getting drunk”: Before I was 16 years old this might have been a fair warning, these things creep up on the inexperienced.  But as an adult I think you can assume that if I keep ordering drinks it’s not because I am fascinated by the different flavours.</p>
+<p>Special mention must be made of the commonest stop phrase. I’ve been told this by close friends and utter strangers, scholars and beggars: “Stop smoking it’s bad for you”.  People like you passed legislation that all cigarette boxes have warnings on them, just in case there was someone like me, who had by some miracle, missed decades of public information programs addressing the dangers of smoking. Do you really believe that my decision to smoke is rooted in ignorance of the health risks?</p>
+<p>For all of these people, those who choose to instruct me, I have a simple message: “Stop!”</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/" rel="bookmark"><time class="entry-date published updated" datetime="2010-09-13T15:31:09+00:00">September 13, 2010</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="http://localhost:8888/microfiction.co.za/author/elementalsystems/">elementalsystems</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/20100906-to-20100919-stop/" rel="category tag">2010/09/06 to 2010/09/19 - Stop</a>, <a href="http://localhost:8888/microfiction.co.za/category/feedback/constructive-criticism/" rel="category tag">Constructive criticism</a>, <a href="http://localhost:8888/microfiction.co.za/category/submissions/volume-ii/" rel="category tag">Volume II</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			5 thoughts on &ldquo;Rant&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+					<li id="comment-589" class="comment byuser comment-author-comovedy even thread-even depth-1 parent">
+			<article id="div-comment-589" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/?s=56&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/?s=112&amp;d=mm&amp;r=g 2x' class='avatar avatar-56 photo avatar-default' height='56' width='56' />						<b class="fn"><a href='http://comovedy.wordpress.com/' rel='external nofollow' class='url'>comovedy</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/#comment-589">
+							<time datetime="2010-09-15T08:17:39+00:00">
+								September 15, 2010 at 8:17 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Cute!<br />
+I liked the story and the circularity of the stop in the final sentence. It made me smile.<br />
+The tone came across very well. It could have slid into whingey whiney bitchy, but it did not.</p>
+<p>I have a slight logical problem with &#8220;not even when the wind changed.&#8221; I thought Nana&#8217;s thing was <em>only</em> if the wind changes.</p>
+<p>The only other con crit items I have are technical.<br />
+My punctuation eyebrows raised a few times. But maybe I have just have an oversensitive colon &#8211; see below.</p>
+<blockquote><p>fair warning<strong>:</strong> these things<br />
+Stop smoking<strong>:</strong> it’s bad for you</p></blockquote>
+<p>And I&#8217;m sure the legislation sentence needs another comma after &#8220;who had.&#8221; Or maybe splitting.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost:8888/microfiction.co.za/2010/09/13/rant/?replytocom=589#respond' onclick='return addComment.moveForm( "div-comment-589", "589", "respond", "277" )' aria-label='Reply to comovedy'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-590" class="comment byuser comment-author-elementalsystems bypostauthor odd alt depth-2">
+			<article id="div-comment-590" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/?s=56&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/?s=112&amp;d=mm&amp;r=g 2x' class='avatar avatar-56 photo avatar-default' height='56' width='56' />						<b class="fn"><a href='http://elementsrevisited.wordpress.com' rel='external nofollow' class='url'>elementalsystems</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/#comment-590">
+							<time datetime="2010-09-15T10:11:37+00:00">
+								September 15, 2010 at 10:11 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Glad you liked it &#8211; not really sure about the style. I suspect that the rewrite will be titled &#8216;The Slam Poet&#8217;s Rant&#8217; and be a little more poetic extreme. This really is the sort of thing that needs live performance.</p>
+<p>Colons as tools to prefix expositions are a recent discovery for me &#8211; your guides excellent examples of where I should have used this new toy. I found it very difficult to keep the long rolling sentences (which seemed to be part of the rant) and keep the grammar acceptable to me &#8211; think my normal style tends more naturally to terse and minimal.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost:8888/microfiction.co.za/2010/09/13/rant/?replytocom=590#respond' onclick='return addComment.moveForm( "div-comment-590", "590", "respond", "277" )' aria-label='Reply to elementalsystems'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-591" class="comment byuser comment-author-rudyneeser even thread-odd thread-alt depth-1">
+			<article id="div-comment-591" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/?s=56&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/?s=112&amp;d=mm&amp;r=g 2x' class='avatar avatar-56 photo avatar-default' height='56' width='56' />						<b class="fn"><a href='http://rudyneeser.wordpress.com/' rel='external nofollow' class='url'>Rudy Neeser</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/#comment-591">
+							<time datetime="2010-09-20T09:50:13+00:00">
+								September 20, 2010 at 9:50 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>This is a slightly didactic piece (or maybe an &#8220;anti-didactic&#8221;, considering the tone of it 😛 ) in which the narrator complains about people they have known trying to shape their behaviour by telling them to stop doing certain things: masturbating, drinking, smoking. The moral: telling people to &#8220;stop&#8221; is rooted in ones own insecurity or belief in the other person&#8217;s ignorance.</p>
+<p>The writing was generally good. I did have a little nit or two:</p>
+<p>&gt; “Stop smoking[:] it’s bad for you”.<br />
+I felt a need for some kind of punctuation or extra word (maybe &#8220;because&#8221;) in the above.</p>
+<p>&gt; might have been a fair warning, these things creep up<br />
+I don&#8217;t think the comma works here (the second phrase is an independent clause). I would have liked a semi-colon, colon, conjunction, or some-such.</p>
+<p>&gt; My Nana always told me, “Stop pulling faces kiddo. If the wind<br />
+&gt; changes your face will stick like  that”.<br />
+I thought that — in this case, where someone is speaking — the final full-stop should be inside the quotations.</p>
+<p>My only real problem with the piece is that the narrator didn&#8217;t manage to gain any sympathy from me. On the plus side, the piece did feel quite strongly like a rant, but like most rants I felt it was very much someone tossing their toys out of anger and frustration.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost:8888/microfiction.co.za/2010/09/13/rant/?replytocom=591#respond' onclick='return addComment.moveForm( "div-comment-591", "591", "respond", "277" )' aria-label='Reply to Rudy Neeser'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-592" class="comment odd alt thread-even depth-1">
+			<article id="div-comment-592" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/3fcc8a44f32974435a7d9fd5ce89161e?s=56&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3fcc8a44f32974435a7d9fd5ce89161e?s=112&amp;d=mm&amp;r=g 2x' class='avatar avatar-56 photo' height='56' width='56' />						<b class="fn">nantalith</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/#comment-592">
+							<time datetime="2010-09-29T07:37:27+00:00">
+								September 29, 2010 at 7:37 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I enjoyed this.  I could relate to it, I don&#8217;t smoke but I have other habits that I&#8217;ve been told to stop all my life [nail biting for one].  I feel a lighting storm of rage when I&#8217;m told to stop &#8211; I want to say &#8216;my fingers &#8211; leave me alone about it&#8217;.  </p>
+<p>I liked the tone of the piece, I think it fits with the anger of being told to stop doing something all the time.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost:8888/microfiction.co.za/2010/09/13/rant/?replytocom=592#respond' onclick='return addComment.moveForm( "div-comment-592", "592", "respond", "277" )' aria-label='Reply to nantalith'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-593" class="comment byuser comment-author-cbraz even thread-odd thread-alt depth-1">
+			<article id="div-comment-593" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/?s=56&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/?s=112&amp;d=mm&amp;r=g 2x' class='avatar avatar-56 photo avatar-default' height='56' width='56' />						<b class="fn">cbraz</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://localhost:8888/microfiction.co.za/2010/09/13/rant/#comment-593">
+							<time datetime="2010-10-01T22:55:09+00:00">
+								October 1, 2010 at 10:55 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>This was a great rant and I thoroughly enjoyed it. It was bitter and angry and made some good points. I particularly like &#8220;Nana was the kindest of the people I want to talk about&#8221;. It and Nana&#8217;s story add a familiarity and intimacy which take the edge off the rant and make it more accessible.</p>
+<p>I have a few grammatical issues: I would put a comma between &#8220;changes&#8221; and &#8220;your face&#8221;, and a semi-colon between &#8220;fair warning&#8221; and &#8220;these things&#8221; in the third paragraph, and between &#8220;Stop smoking&#8221; and &#8220;its bad for you&#8221;.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost:8888/microfiction.co.za/2010/09/13/rant/?replytocom=593#respond' onclick='return addComment.moveForm( "div-comment-593", "593", "respond", "277" )' aria-label='Reply to cbraz'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply to <a href="#comment-589">comovedy</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/microfiction.co.za/2010/09/13/rant/#respond">Cancel reply</a></small></h3>
+									<form action="http://localhost:8888/microfiction.co.za/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+																			<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='277' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='589' />
+</p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- .comments-area -->
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://localhost:8888/microfiction.co.za/2010/09/06/new-theme-stop/" rel="prev"><span class="meta-nav" aria-hidden="true">Previous</span> <span class="screen-reader-text">Previous post:</span> <span class="post-title">New Theme: Stop</span></a></div><div class="nav-next"><a href="http://localhost:8888/microfiction.co.za/2010/09/14/micfic-in-meatspace/" rel="next"><span class="meta-nav" aria-hidden="true">Next</span> <span class="screen-reader-text">Next post:</span> <span class="post-title">MicFic in MeatSpace</span></a></div></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<script type='text/javascript' src='http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript' src='http://localhost:8888/microfiction.co.za/wp-includes/js/comment-reply.min.js?ver=4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/microfiction.co.za/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+
+</body>
+</html>
